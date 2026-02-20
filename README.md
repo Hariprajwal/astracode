@@ -1,2 +1,2 @@
 # astracode
-hacthon project astra code 
+hackthon project astra code 
